@@ -7,7 +7,7 @@
 
 <br>
 
-- A passionate Self-taught back-end developer
+- A passionate developer tought by a Senior Software Engineer
 - Currently learning C# and android development
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://docs.google.com/document/d/1mK5sHoqTRxt62FUn3dzCXMKoFZXEWPpwjmSgufeC1lU/edit?usp=sharing)
 
